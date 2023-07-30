@@ -8,4 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwertayu&show_icons=true&locale=en&layout=compact" alt="qwertayu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwertayu&show_icons=true&locale=en" alt="qwertayu" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QwerTayu&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -48,6 +48,8 @@
     </a>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbr41to&theme=github_light)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbr41to&theme=github_light)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="200px" />
 </a>

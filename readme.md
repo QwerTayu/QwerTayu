@@ -48,9 +48,9 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwertayu&show_icons=true&locale=en&layout=compact" alt="qwertayu" height="200px" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="200px" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=QwerTayu&count_private=true&theme=transparent" height="200px" />

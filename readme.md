@@ -49,7 +49,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwerTayu&layout=compact" height="200px" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

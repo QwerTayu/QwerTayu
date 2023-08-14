@@ -3,44 +3,65 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo"  />
     </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform logo"  />
     </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTex logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva logo"  />
     </a>
 </p>
 

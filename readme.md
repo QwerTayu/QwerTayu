@@ -4,6 +4,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+    </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
@@ -13,16 +22,7 @@
         <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-    </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-    </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-    </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo"  />

@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tayu</h1>
 <h3 align="center">A student engineer from Japan</h3>
 
+<h3 align="left">My Interests:</h3>
+<ul>
+    <li>Web Front-end & Back-end</li>
+    <li>App Development</li>
+    <li>AI, Machine Learning</li>
+    <li>UI/UX Design</li>
+    <li>etc...</li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
@@ -41,9 +50,6 @@
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo"  />
-    </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />

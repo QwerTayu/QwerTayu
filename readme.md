@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />

@@ -113,3 +113,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=QwerTayu&count_private=true&theme=transparent&count_private=true" height="200px" />
 </a>
+
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=QwerTayu&fix=true&time=1769238372505)](https://githubplanet.onrender.com/card.html?username=QwerTayu)

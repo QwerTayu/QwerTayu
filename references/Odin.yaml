@@ -1,0 +1,23 @@
+meta: 
+  created: 2026-02-03
+  os: Windows 11 Pro
+  hostname: Thor
+
+environment:
+  browser:
+    apps:
+      - name: Chrome
+      - name: Visual Studio Code
+        memo: "[Codeで開く]をTrue"
+        login: Github - QwerTayu
+  winget:
+    apps: 
+      - name: volta
+        config: 
+          "Do you agree to all the source agreements terms?" : Yes
+          
+  
+  Microsoft Store:
+    apps:
+      - 
+

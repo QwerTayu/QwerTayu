@@ -15,8 +15,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwerTayu&layout=compact&count_private=true" height="200px" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=QwerTayu&count_private=true&theme=transparent&count_private=true" height="200px" />
-</a>
-

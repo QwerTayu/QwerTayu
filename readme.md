@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yui Murakami</h1>
 <h3 align="center">Student Software Engineer — Nagaoka University of Technology, B3</h3>
 <p align="center">
-  <a href="https://lab.kumoi.net/en/">🔬 Kumoi Lab</a>
+  <a href="https://lab.kumoi.net/en/">🔬 Theory of Machine Learning Laboratory</a>
   &nbsp;|&nbsp;
   <a href="https://blog.nutmeg.cloud/">🥜 NUTMEG</a>
 </p>
